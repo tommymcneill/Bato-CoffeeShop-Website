@@ -24,6 +24,21 @@ A clean, responsive, and modern website design for a coffee shop — built with 
 
 ---
 
+🙌 Author
+
+Tommy McNeill
+
+Frontend Developer | JavaScript | React | Git | GitHub | HTML | CSS
+LinkedIn • GitHub
+
+---
+
+📜 License
+
+This project is open source and available under the MIT License.
+
+---
+
 ## 📂 Folder Structure
 
 ```bash
@@ -37,13 +52,4 @@ bato-coffeeshop-website/
 │   └── (logos, product images, backgrounds)
 └── README.md
 
-🙌 Author
 
-Tommy McNeill
-
-Frontend Developer | JavaScript | React | Git | GitHub | HTML | CSS
-LinkedIn • GitHub
-
-📜 License
-
-This project is open source and available under the MIT License.
