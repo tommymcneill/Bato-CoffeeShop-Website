@@ -29,7 +29,7 @@ A clean, responsive, and modern website design for a coffee shop — built with 
 Tommy McNeill
 
 Frontend Developer | JavaScript | React | Git | GitHub | HTML | CSS
-[LinkedIn](www.linkedin.com/in/tommy-mcneill-931319350) • GitHub
+[LinkedIn](www.linkedin.com/in/tommy-mcneill-931319350) • [GitHub](https://github.com/tommymcneill)
 
 ---
 
