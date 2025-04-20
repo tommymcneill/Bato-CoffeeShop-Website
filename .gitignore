@@ -1,0 +1,17 @@
+# macOS junk
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Node.js (future use)
+node_modules/
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS junk
+Thumbs.db
